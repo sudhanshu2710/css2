@@ -1,0 +1,68 @@
+•	What are some new things happening in the web?
+Progressive web apps (or PWA) are not the phenomenon of this year. However, the technology gained modern developers and investors’ attention due to its potential to perform high-quality user experience close to native app one. 
+What does the future of web development look like? That is believed by many that next year bots will become more self-learning and will easily match particular user’s needs and behavior. That means that 24/7-operating bots will be able to replace support managers and save costs for many companies. 
+Accelerated Mobile Pages (or AMP) is one more web development trend. The idea of it is to speed up page performance and decrease the risk of leaving it by a user. AMP technology is a bit similar to PWA. The difference is that pages become accelerated due to open-source plugin recently developed by Twitter and Google. 
+Nowadays, with high-speed Internet standards, there is no need to be stuck on an approach where every action made on the page like clicks on various buttons leads to one more web page downloaded from a server. 
+The web development future seems to be less texty and more voicy and it’s not only about virtual multifunctional home assistants such as Siri, Google Home or Amazon’s Alexa. In 2021, more than half of all smart and IoT devices will hear users and execute commands given by voice.
+nnovation web design is one more trend branch in the digital world. From year to year startups keep paying more attention to user experience and invest fewer resources in the aesthetics. However, beautifully looking websites and apps have more chances to be noticed by potential users and become viral. In that terms, visual design becomes not the question of engineering, but the one of marketing strategy
+•	Explain a project that you have built?
+I have designed UI for various websites and have also deployed on heroku or netlify.
+1.	Freshmenu clone – It is an online food delivery website from where users can order their favourite dishes at their doorstep.
+
+•	Whats something exciting that you have built?
+TravelSite- It provides information related to local or international tourists destinations. It is a platform to displace destination management companies that provides local travel services. you can reserve transportation, day tour services, restaurants, hotels, etc.
+Unacademy clone- It is an educational platform with a massive transformative purpose of being the world’s largest educational repository by empowering great educators and making it accessible to everyone.
+
+•	What are you most excited about?
+1.	 Lifelong learning — Anyone who gets excited about learning something new will continue to be a vibrant presence in the developer community. 
+2.	Endless possibilities for focus/experience — The wonderful (and daunting) thing about the technology industry, in general, is that it is very broad. 
+3.	Fueling the creativity — All of the points listed above can provide the fuel needed to bolster morale and feed positive growth. 
+
+•	Why do coding standards matter? What are some patterns you follow?
+Choose industry-specific coding standards
+Coding best practices and standards vary depending on the industry a specific product is being built for. The standards required for coding software for luxury automobiles will differ from those for coding software for gaming.
+For example, MISRA C and C++ were written for the automotive industry and are considered the de-facto standards for building applications that emphasize safety. Currently, they are regarded as the absolute best practices for writing code in the industry.
+Adhering to industry-specific standards makes it easier to write accurate code that matches product expectations. It becomes easier to write code that will satisfy the end-users and meet business requirements.
+Focus on code readability
+•	Readable code is easy to follow, optimizes space and time. Here are a few ways to achieve that:
+•	Write as few lines as possible.
+•	Use appropriate naming conventions.
+•	Segment blocks of code in the same section into paragraphs.
+•	Use indentation to marks the beginning and end of control structures. Clearly specify the code between them.
+•	Don’t use lengthy functions. Ideally, a single function should carry out a single task.
+•	Use the DRY (Don’t Repeat Yourself) principle. Automate repetitive tasks whenever necessary. The same piece of code should not be repeated in the script.
+Turn daily backups into an instinct
+Multiple events can trigger data loss – system crash, dead battery, software glitch, hardware damage, etc. To prevent this, save code daily, and after every modification, no matter how minuscule it may be. Back up the workflow on TFS, SVN, or any other version control mechanism.
+Leave comments and prioritize documentation
+Don’t assume that just because everyone else viewing the code is a developer, they will instinctively understand it without clarification. Devs are human, and it is a lot easier for them to read comments describing code function rather than scanning the code and making speculations.
+Advantages of implementing Coding Standards
+•	Offers uniformity to the code created by different engineers.
+•	Enables the creation of reusable code.
+•	Makes it easier to detect errors.
+•	Make code simpler, more readable, and easier to maintain.
+•	Boost programmer efficiency and generates faster results.
+
+•	How do you go about managing responsive websites?
+In this section, we’ll cover the underlying foundation for responsive website design and its different building blocks.
+CSS and HTML
+The foundation of responsive design is the combination of HTML and CSS, two languages that control the content and layout of a page in any given web browser.
+Media Queries
+A media query is a fundamental part of CSS3 that lets you render content to adapt to different factors like screen size or resolution.
+Fluid Layouts
+A fluid layout is an essential part of modern responsive design. In the good old days, you would set a static value for every HTML element, like 600 pixels.
+
+
+Flexbox Layout
+While a percentage-based layout is fluid, many designers and web developers felt it was not dynamic or flexible enough. Flexbox is a CSS module designed as a more efficient way to lay out multiple elements, even when the size of the contents inside the container is unknown.
+
+•	What do you care about the most when you write software?
+The perks are that I get to solve hard problems every day. Every day I get to exercise my mind and my creativity. 
+I’m insatiable when it comes to acquiring and assimilating knowledge. Software engineering provides limitless learning potential.
+Lastly, I love software engineering because I can maximize the usefulness of one of the most powerful tools available to me. I can make software to satisfy my own wants or needs.
+
+
+
+
+
+
+ 
